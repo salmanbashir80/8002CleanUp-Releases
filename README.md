@@ -6,10 +6,10 @@ Official public release repository for **8002CleanUp** by Salman Bashir.
 
 ## 🚀 Download Latest Version
 Download the latest macOS installer DMG:
-- **[Download 8002CleanUp v1.2.3 DMG](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/latest/download/8002CleanUp-v1.2.3.dmg)**
+- **[Download 8002CleanUp v1.2.4 DMG](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/latest/download/8002CleanUp-v1.2.4.dmg)**
 
 ## 📦 How to Install
-1. Open the downloaded `8002CleanUp-v1.2.3.dmg`.
+1. Open the downloaded `8002CleanUp-v1.2.4.dmg`.
 2. Double-click `Install-Certificate-First.command` (takes 2 seconds to set up local security).
 3. Drag `8002CleanUp.app` into your `Applications` folder.
 4. Launch `8002CleanUp` from Launchpad or Applications.
