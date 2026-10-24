@@ -6,6 +6,17 @@
         <description>Most recent updates for 8002CleanUp.</description>
         <language>en</language>
         <item>
+            <title>Version 1.2.8</title>
+            <pubDate>Sat, 24 Oct 2026 21:59:01 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/salmanbashir80/8002CleanUp-Releases/releases/tag/v1.2.8</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/salmanbashir80/8002CleanUp-Releases/releases/download/v1.2.8/8002CleanUp.dmg"
+                       sparkle:version="23"
+                       sparkle:shortVersionString="1.2.8"
+                       length="22530966"
+                       type="application/octet-stream" />
+        </item>
+        <item>
             <title>Version 1.2.7</title>
             <pubDate>Wed, 21 Oct 2026 19:21:33 +0000</pubDate>
             <sparkle:releaseNotesLink>https://github.com/salmanbashir80/8002CleanUp-Releases/releases/tag/v1.2.7</sparkle:releaseNotesLink>
