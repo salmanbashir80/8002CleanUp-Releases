@@ -2,6 +2,14 @@
 
 Official public release repository for **MacCare Pro (8002 Edition)** by Salman Bashir.
 
+## 🛒 Get the Latest Version on Gumroad
+
+**[Buy 8002 CleanUp Pro for macOS on Gumroad — $14.99](https://salman8002.gumroad.com/l/8002cleanup-mac?offer_code=LAUNCH20)**
+
+- 🎉 **Launch offer: 20% off with code `LAUNCH20`** — **$11.99** (the link above applies the code automatically)
+- ✅ Latest version **v1.3.6 (Build 30)** — instant download, license key delivered by email
+- 🆓 **7-day free trial** included — one-time purchase, no subscription
+
 ## 🚀 Download Latest Version (v1.2.8)
 Download the latest macOS Universal DMG (includes the **1-Click Native Setup Wizard `MacCare Pro Installer.app`**):
 - **[Download MacCare Pro v1.2.8 DMG (Permanent Latest Link)](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/latest/download/8002CleanUp.dmg)**
