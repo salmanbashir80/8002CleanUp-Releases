@@ -7,7 +7,7 @@ Official public release repository for **MacCare Pro (8002 Edition)** by Salman 
 **[Buy 8002 CleanUp Pro for macOS on Gumroad — $14.99](https://salman8002.gumroad.com/l/8002cleanup-mac?offer_code=LAUNCH20)**
 
 - 🎉 **Launch offer: 20% off with code `LAUNCH20`** — **$11.99** (the link above applies the code automatically)
-- ✅ Latest version **v1.3.6 (Build 30)** — instant download, license key delivered by email
+- ✅ Latest version **v1.3.7 (Build 31)** — instant download, license key delivered by email
 - 🆓 **7-day free trial** included — one-time purchase, no subscription
 
 ## 🚀 Download Latest Version (v1.2.8)
