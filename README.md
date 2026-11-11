@@ -10,17 +10,17 @@ Official public release repository for **MacCare Pro (8002 Edition)** by Salman 
 - ✅ Latest version **v1.3.7 (Build 31)** — instant download, license key delivered by email
 - 🆓 **7-day free trial** included — one-time purchase, no subscription
 
-## 🚀 Download Latest Version (v1.2.8)
+## 🚀 Download Latest Version (v1.3.7)
 Download the latest macOS Universal DMG (includes the **1-Click Native Setup Wizard `MacCare Pro Installer.app`**):
 - **[Download MacCare Pro v1.2.8 DMG (Permanent Latest Link)](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/latest/download/8002CleanUp.dmg)**
-- **[Download Versioned 8002CleanUp-v1.2.8.dmg](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/download/v1.2.8/8002CleanUp-v1.2.8.dmg)**
+- **[Download Versioned 8002CleanUp-macOS-v1.3.7.dmg](https://github.com/salmanbashir80/8002CleanUp-Releases/releases/download/v1.3.7/8002CleanUp-macOS-v1.3.7.dmg)**
 
 ## 📦 1-Click AdGuard-Style Installation
 1. Open the downloaded `8002CleanUp.dmg`.
 2. Double-click **`MacCare Pro Installer.app`** inside the DMG.
 3. Click **"Install & Launch MacCare Pro"** — the native setup wizard automatically installs `MacCare Pro.app` to `/Applications`, clears Gatekeeper quarantine (`xattr -cr`), and launches the app!
 
-## ✨ Key Features in v1.2.8
+## ✨ Key Features in v1.3.7
 - **🛡️ AdGuard Suite (`AdGuard & Web`)**:
   - **Ads Guard**: Blocks intrusive banners, pop-ups, video ads, and ad networks across macOS.
   - **Internet Guard**: Real-time web shield against phishing sites, scam portals, malware domains, and crypto-miners.
